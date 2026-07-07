@@ -23,6 +23,7 @@ Built for operators, not spectators. Every entry here is something you can actua
 - [Analytics & CRO](#analytics--cro)
 - [Payments & Finance](#payments--finance)
 - [Communities & Newsletters](#communities--newsletters)
+- [Top Articles & Guides](#top-articles--guides)
 - [Contributing](#contributing)
 
 ## Getting Started & Knowledge
@@ -226,6 +227,31 @@ AI tools that store owners can plug in today. For the forward-looking protocol a
 - [Ecommerce Fuel](https://www.ecommercefuel.com/) - Private community for established stores.
 - [2PM](https://2pml.com/) - Commerce and media strategy newsletter.
 - [DTC Newsletter](https://www.dtcnews.link/) - Direct-to-consumer trends and tactics.
+
+## Top Articles & Guides
+
+Curated deep-reads for operators — dated and sourced. Newer, practical, and neutral wins over evergreen fluff.
+
+- [10 best email marketing automations for ecommerce in 2025](https://www.klaviyo.com/blog/top-email-automation-examples) - Klaviyo, 2025. Details ten ecommerce email automation flows such as welcome, abandoned cart, and post-purchase, with example brands and benchmarks.
+- [13 High-Demand Products With Low Competition](https://www.shopify.com/blog/high-demand-products-with-low-competition) - Shopify, 2025. Outlines how to spot trending, low-saturation products using Google Trends, social platforms, and marketplace signals.
+- [Agentic Commerce: AI Shopping Agents Guide](https://www.deloitte.com/us/en/industries/consumer/articles/agentic-commerce-ai-shopping-agents-guide.html) - Deloitte, 2025. Maps five evolutionary stages of agent-driven retail and advises brands to invest in data infrastructure, APIs, and interoperability to stay discoverable.
+- [AI Is Changing The Rules Of Web Traffic — A GEO Playbook For Online Retailers](https://www.forbes.com/sites/lutzfinger/2025/08/20/generative-engine-optimization-geo-a-playbook-for-online-retailers/) - Forbes, 2025. Outlines how generative engine optimization differs from traditional SEO and what retailers should do to appear inside AI-generated shopping answers.
+- [Conversion Rate Optimization (CRO): Get Started](https://www.shopify.com/blog/120261189-conversion-rate-optimization) - Shopify, 2026. Introduces CRO methodology, prioritization frameworks, benchmarks, and checkout and mobile improvement tactics for store operators.
+- [Developing an open standard for agentic commerce](https://stripe.com/blog/developing-an-open-standard-for-agentic-commerce) - Stripe, 2025. Explains the Agentic Commerce Protocol co-developed with OpenAI, which lets merchants sell through AI agents while remaining the merchant of record.
+- [Dropshipping on Shopify: Complete 2026 Beginner's Guide](https://www.shopify.com/blog/dropshipping-guide) - Shopify, 2026. Walks through three dropshipping fulfillment methods on Shopify, covering supplier apps, direct partnerships, store setup, and marketing.
+- [E-Commerce Cart & Checkout Usability Research](https://baymard.com/research/checkout-usability) - Baymard Institute, 2026. Summarizes large-scale usability testing on checkout flows, including abandonment causes and form-field reduction guidelines.
+- [Facebook Ads for Ecommerce: 6 Pro Tips](https://madgicx.com/blog/facebook-ads-for-ecommerce) - Madgicx, 2024. Outlines Meta advertising tactics for ecommerce including Advantage+ catalog ads, creative testing, and campaign structure.
+- [How to Do Ecommerce Product Research](https://www.shopify.com/blog/product-research) - Shopify, 2026. Explains quantitative and qualitative methods for validating a product idea and confirming niche demand before launch.
+- [How to Improve Ecommerce Customer Retention](https://www.shopify.com/enterprise/blog/ecommerce-customer-retention) - Shopify, 2025. Covers retention rate calculation, industry benchmarks, and repeat-purchase strategies such as loyalty programs and proactive support.
+- [Performance Max Campaigns: The Ultimate Ecommerce Guide](https://www.storegrowers.com/performance-max-campaigns/) - Store Growers, 2026. Explains Performance Max campaign structure, asset groups, product feed optimization, and budget-tier strategy for online retailers.
+- [Powering AI commerce with the new Agent Payments Protocol (AP2)](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) - Google Cloud, 2025. Announces AP2, an open, payment-agnostic protocol that lets AI agents complete authorized purchases using cryptographically signed mandates.
+- [Print on Demand: What It Is & How To Start](https://www.shopify.com/blog/print-on-demand) - Shopify, 2026. Describes how print on demand works, its trade-offs, and steps to start selling custom products without holding inventory.
+- [Product Sourcing In 2025: Best Methods, Tools and Practices](https://www.autods.com/blog/dropshipping-tips-strategies/product-sourcing/) - AutoDS, 2025. Compares product sourcing methods including automation tools, marketplaces, private suppliers, wholesale, and print on demand.
+- [The Complete Ecommerce Attribution Guide](https://www.klaviyo.com/products/marketing-analytics/ecommerce-attribution) - Klaviyo, 2026. Reviews attribution models, multi-touch tracking across devices, and how to turn attribution data into budget decisions.
+- [The Lean Guide to Product Research](https://ahrefs.com/blog/product-research/) - Ahrefs, 2025. Details how to use search-volume and growth-rate data to surface product opportunities on marketplaces such as Amazon.
+- [TikTok Ads in 2026: Strategy, Costs & Best Practices](https://www.shopify.com/blog/tiktok-ads) - Shopify, 2025. Covers TikTok ad formats, budget minimums, ROAS benchmarks by industry, and step-by-step campaign setup for ecommerce advertisers.
+- [What is a 3PL? Guide to Third-Party Logistics for eCommerce](https://www.shipnetwork.com/post/3pl-guide-third-party-logistics-ecommerce) - ShipNetwork, 2025. Explains how third-party logistics works, covering receiving, warehousing, picking, packing, shipping, and returns for ecommerce brands.
+- [Why the AI shopping agent wars will heat up in 2026](https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/) - Modern Retail, 2026. Reviews the competition among OpenAI, Amazon, and startups to own the shopping interface and the product-data gaps that limit AI agent adoption.
 
 ## Contributing
 
