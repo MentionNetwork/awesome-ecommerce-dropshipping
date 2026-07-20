@@ -203,6 +203,7 @@ AI tools that store owners can plug in today. For the forward-looking protocol a
 
 - [Ahrefs](https://ahrefs.com/) - Backlinks, keywords, and site audits.
 - [Semrush](https://www.semrush.com/) - All-in-one SEO and competitor research.
+- [Screpy](https://screpy.com/) - Technical SEO audits, keyword rank tracking, Core Web Vitals, and uptime monitoring for store sites.
 - [OpenSEO](https://openseo.so/) - Open-source, self-hostable SEO platform (DataForSEO-backed).
 - [Google Search Console](https://search.google.com/search-console) - Free organic performance and indexing data.
 - **GEO note:** As AI assistants become discovery channels, optimizing to be *cited by AI answers* matters alongside classic SEO — see the agentic-commerce list for GEO tooling.
