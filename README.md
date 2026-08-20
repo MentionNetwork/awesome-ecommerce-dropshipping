@@ -64,6 +64,7 @@ Where your store actually lives.
 ## Apps & Plugins
 
 - [Shopify App Store](https://apps.shopify.com/) - Thousands of apps for every store function.
+- [StoreCheck](https://getstorecheck.eu/) - Read-only Shopify catalog audit web app for product structure, content, images, SEO, pricing, inventory, and taxonomy issues.
 - [Judge.me](https://judge.me/) - Product reviews and UGC.
 - [Loox](https://loox.io/) - Photo/video reviews built for dropshipping social proof.
 - [Klaviyo](https://www.klaviyo.com/) - Email + SMS marketing automation (see Marketing).
