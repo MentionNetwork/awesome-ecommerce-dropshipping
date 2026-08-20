@@ -189,6 +189,7 @@ AI tools that store owners can plug in today. For the forward-looking protocol a
 - [Gorgias](https://www.gorgias.com/) - AI-assisted helpdesk and customer support automation.
 - [Rep AI](https://www.hellorep.ai/) - AI shopping assistant / conversational sales agent.
 - [MentionNetwork](https://github.com/MentionNetwork) - Measure and improve how your brand and products appear in AI answers (GEO / AI visibility).
+- [PixGT](https://pixgt.cn) - AI product imagery for store listings — scene photos, clothing try-on, and model swapping from a single product shot.
 
 ## Marketing & Advertising
 
