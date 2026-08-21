@@ -232,6 +232,7 @@ AI tools that store owners can plug in today. For the forward-looking protocol a
 
 Curated deep-reads for operators — dated and sourced. Newer, practical, and neutral wins over evergreen fluff.
 
+- [The Supplier Verification & QC Proof Guide](https://asgdropshipping.com/research/supplier-verification-qc-proof-guide/) - ASG Dropshipping, 2026. Covers supplier due diligence, QC evidence, defect classification, and escalation workflows for ecommerce teams.
 - [10 best email marketing automations for ecommerce in 2025](https://www.klaviyo.com/blog/top-email-automation-examples) - Klaviyo, 2025. Details ten ecommerce email automation flows such as welcome, abandoned cart, and post-purchase, with example brands and benchmarks.
 - [13 High-Demand Products With Low Competition](https://www.shopify.com/blog/high-demand-products-with-low-competition) - Shopify, 2025. Outlines how to spot trending, low-saturation products using Google Trends, social platforms, and marketplace signals.
 - [Agentic Commerce: AI Shopping Agents Guide](https://www.deloitte.com/us/en/industries/consumer/articles/agentic-commerce-ai-shopping-agents-guide.html) - Deloitte, 2025. Maps five evolutionary stages of agent-driven retail and advises brands to invest in data infrastructure, APIs, and interoperability to stay discoverable.
