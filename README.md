@@ -68,6 +68,7 @@ Where your store actually lives.
 - [Loox](https://loox.io/) - Photo/video reviews built for dropshipping social proof.
 - [Klaviyo](https://www.klaviyo.com/) - Email + SMS marketing automation (see Marketing).
 - [ReConvert](https://reconvert.io/) - Post-purchase upsells and thank-you page funnels.
+- [Vertex CSV Review Tools](https://mceeomoba.github.io/vertex-inventory-review/) - Free browser-only checks of Shopify and Ecwid CSV files before import; files stay in the browser, no store connection or upload.
 - [WooCommerce Extensions](https://woocommerce.com/products/) - Official WooCommerce add-on marketplace.
 
 ## Dropshipping Suppliers & Marketplaces
