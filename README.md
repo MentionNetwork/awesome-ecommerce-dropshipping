@@ -106,6 +106,7 @@ Sell custom products with zero inventory.
 Find winning products with data instead of guesswork.
 
 - [Sell The Trend](https://www.sellthetrend.com/) - AI product research across niches and platforms.
+- [StorePilot](https://storepilot.undone-k.workers.dev/) - Early MVP product-research workspace for store operators; 7-day free trial then $29/mo, with product scout and test-plan tools currently in demo.
 - [Ecomhunt](https://www.ecomhunt.com/) - Daily hand-picked winning products with data and ad examples.
 - [Dropship.io](https://dropship.io/) - Product and competitor sales tracking.
 - [Minea](https://en.minea.com/) - Ad-spy and product discovery across Meta/TikTok/Pinterest.
