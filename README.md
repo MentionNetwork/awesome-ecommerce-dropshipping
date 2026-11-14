@@ -100,6 +100,7 @@ Sell custom products with zero inventory.
 - [ShipMonk](https://www.shipmonk.com/) - 3PL for DTC brands with inventory management software.
 - [Easyship](https://www.easyship.com/) - Shipping rate aggregation and global courier discounts.
 - [Flexport](https://www.flexport.com/) - Freight forwarding and supply chain for scaling importers.
+- [OrderQuill](https://orderquill.com/) - Client-side browser tool for turning Shopify, eBay, Whatnot, Etsy, and WooCommerce order CSVs into 4x6 thermal packing slips and pick lists without signup.
 
 ## Product Research Tools
 
