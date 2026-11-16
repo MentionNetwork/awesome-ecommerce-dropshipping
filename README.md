@@ -84,6 +84,7 @@ Where you source products without holding inventory.
 - [Modalyst](https://modalyst.co/) - Supplier network with independent and name-brand products.
 - [SaleHoo](https://www.salehoo.com/) - Vetted wholesale and dropshipping supplier directory.
 - [Alibaba](https://www.alibaba.com/) - Wholesale/bulk and private-label manufacturing at scale.
+- [PlushSource](https://plushsource.com/) - Free directory of 55 custom plush toy manufacturers for private-label plush, with facts compiled from each manufacturer's website.
 
 ## Print on Demand
 
